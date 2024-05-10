@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "636f28f99bb08671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guión Gráfico/Medio Ambiente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "aa136f717a5b1dac",
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guión Gráfico/Introductoria.md",
+                "file": "Guión Gráfico/Medio Ambiente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guión Gráfico/Introductoria.md",
+                "file": "Guión Gráfico/Medio Ambiente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guión Gráfico/Introductoria.md"
+                "file": "Guión Gráfico/Medio Ambiente.md"
               }
             }
           }
@@ -162,10 +175,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e4f12223685225b",
+  "active": "636f28f99bb08671",
   "lastOpenFiles": [
-    "Welcome.md",
     "Guión Gráfico/Introductoria.md",
+    "Guión Gráfico/Medio Ambiente.md",
+    "Welcome.md",
     "Guión Gráfico"
   ]
 }
