@@ -14,26 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guión Gráfico/Introductoria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "636f28f99bb08671",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guión Gráfico/Medio Ambiente.md",
+                "file": "Guión Gráfico/5. Los Sacbe'ob.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "aa136f717a5b1dac",
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guión Gráfico/Medio Ambiente.md",
+                "file": "Guión Gráfico/5. Los Sacbe'ob.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guión Gráfico/Medio Ambiente.md",
+                "file": "Guión Gráfico/5. Los Sacbe'ob.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guión Gráfico/Medio Ambiente.md"
+                "file": "Guión Gráfico/5. Los Sacbe'ob.md"
               }
             }
           }
@@ -175,10 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "636f28f99bb08671",
+  "active": "9e4f12223685225b",
   "lastOpenFiles": [
-    "Guión Gráfico/Introductoria.md",
-    "Guión Gráfico/Medio Ambiente.md",
+    "Guión Gráfico/4. Acrópolis. Plazuela o Patio del Nivel C.md",
+    "Guión Gráfico/3. Acrópolis. Plazuela o Patio del Nivel B.md",
+    "Guión Gráfico/6. Manejo del Agua.md",
+    "Guión Gráfico/5. Los Sacbe'ob.md",
+    "Guión Gráfico/2. La Acrópolis.md",
+    "Guión Gráfico/0. Introductoria.md",
+    "Guión Gráfico/1. Medio Ambiente.md",
+    "Guión Gráfico/7. Rostros Mayas del Pasado.md",
+    "Guión Gráfico/8. Dios K’inich Ajaw.md",
+    "Guión Gráfico/9. Ocupación Posclásica..md",
+    "10. Museo Comunitario de Morrocoy.md",
     "Welcome.md",
     "Guión Gráfico"
   ]

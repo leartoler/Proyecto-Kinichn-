@@ -1,9 +1,0 @@
-El asentamiento Dzibanché-Kinichná se ubica en un lugar único, entre la selva norte de la Península de Yucatán y la selva tropical lluviosa del Peten. Este entorno natural, aun cuando ha sido perturbado por actividades agrícolas y ganaderas, muchas de las estructuras prehispánicas se encuentran cubiertor por una densa vegetación. 
-
-En flora se encuentra en esta área el chicozapote, también conocido como árbol del chicle (Manilkara zapota) y la chaya comestible, al que se le nombra también como árbol de espinacas (Cnidoscolus aconitifolius)
-
-En fauna, este lugar es casa de animales como el venado cola blanca (Odocoileus virginianus), el jaguar (Phantera onca), el tapir centroamericano (Tapirella bairdii), el cocodrílo de rió (Crocodylus Acatus) o la culebra corredora (Drymobius margariteferus).
-
-Esta comvivencia de flora y fauna, en la que conviven especies tanto antiguas como modernas, fueron de suma importancia económica y cultural para el área. El área de Kinichna, junto con Dzibanché, Tutil y Lamay comparten, más que una historia y una cultura, una biodiversidad. 
-
-
