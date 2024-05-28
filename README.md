@@ -29,5 +29,5 @@ Se propone una narrativa que de cuenta que un arqueólogo está contando los des
 
 ### IPOP
 Tomando en comsideración el modelo del Smithsonian, los temas de los que se tomaran en consiuderación serán:
-- Cédulas introductorias: sobre
+- Cédulas introductorias: sobre ideas.
 - Cédulas temáticas: sobre la gente y los objetos. Cuando se hable sobre la gente será enfatizar conexiones emocionales. 
